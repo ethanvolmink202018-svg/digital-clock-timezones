@@ -1,0 +1,13 @@
+{
+  "name": "digital-clock-timezones",
+  "version": "1.0.0",
+  "description": "A beautiful digital clock displaying current time in multiple time zones",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["clock", "time", "timezone", "digital"],
+  "author": "Ethan Volmin",
+  "license": "MIT"
+}
